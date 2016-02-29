@@ -4,63 +4,63 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>FanGhost.github.io/</loc>
-<lastmod>2016-02-29T22:45:30-00:00</lastmod>
+<loc>http://FanGhost.github.io/</loc>
+<lastmod>2016-03-01T00:07:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/archives.html</loc>
-<lastmod>2016-02-29T22:45:30-00:00</lastmod>
+<loc>http://FanGhost.github.io/archives.html</loc>
+<lastmod>2016-03-01T00:07:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/tags.html</loc>
-<lastmod>2016-02-29T22:45:30-00:00</lastmod>
+<loc>http://FanGhost.github.io/tags.html</loc>
+<lastmod>2016-03-01T00:07:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/categories.html</loc>
-<lastmod>2016-02-29T22:45:30-00:00</lastmod>
+<loc>http://FanGhost.github.io/categories.html</loc>
+<lastmod>2016-03-01T00:07:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/hello.html</loc>
+<loc>http://FanGhost.github.io/hello.html</loc>
 <lastmod>2014-09-24T02:06:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/category/uncategorized.html</loc>
+<loc>http://FanGhost.github.io/category/uncategorized.html</loc>
 <lastmod>2014-09-24T02:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/tag/pelican.html</loc>
+<loc>http://FanGhost.github.io/tag/pelican.html</loc>
 <lastmod>2014-09-24T02:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/tag/markdown.html</loc>
+<loc>http://FanGhost.github.io/tag/markdown.html</loc>
 <lastmod>2014-09-24T02:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>FanGhost.github.io/author/mcsrainbow.html</loc>
+<loc>http://FanGhost.github.io/author/mcsrainbow.html</loc>
 <lastmod>2014-09-24T02:06:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
