@@ -4,64 +4,64 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://FanGhost.github.io/</loc>
-<lastmod>2016-03-01T00:24:14-00:00</lastmod>
+<loc>http://fange.ml/</loc>
+<lastmod>2016-04-17T21:26:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/archives.html</loc>
-<lastmod>2016-03-01T00:24:14-00:00</lastmod>
+<loc>http://fange.ml/archives.html</loc>
+<lastmod>2016-04-17T21:26:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/tags.html</loc>
-<lastmod>2016-03-01T00:24:14-00:00</lastmod>
+<loc>http://fange.ml/tags.html</loc>
+<lastmod>2016-04-17T21:26:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/categories.html</loc>
-<lastmod>2016-03-01T00:24:14-00:00</lastmod>
+<loc>http://fange.ml/categories.html</loc>
+<lastmod>2016-04-17T21:26:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/hello.html</loc>
-<lastmod>2014-09-24T02:06:00+08:00</lastmod>
+<loc>http://fange.ml/shi-fen-xi-xue-xi-bi-ji-1.html</loc>
+<lastmod>2016-04-17T18:57:29+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/category/uncategorized.html</loc>
-<lastmod>2014-09-24T02:06:00+08:06</lastmod>
+<loc>http://fange.ml/category/shu-xue.html</loc>
+<lastmod>2016-04-17T18:57:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/tag/pelican.html</loc>
-<lastmod>2014-09-24T02:06:00+08:06</lastmod>
+<loc>http://fange.ml/tag/shi-fen-xi.html</loc>
+<lastmod>2016-04-17T18:57:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/tag/markdown.html</loc>
-<lastmod>2014-09-24T02:06:00+08:06</lastmod>
+<loc>http://fange.ml/tag/shu-xue-fen-xi.html</loc>
+<lastmod>2016-04-17T18:57:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://FanGhost.github.io/author/mcsrainbow.html</loc>
-<lastmod>2014-09-24T02:06:00+08:06</lastmod>
+<loc>http://fange.ml/author/fanghost.html</loc>
+<lastmod>2016-04-17T18:57:29+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
