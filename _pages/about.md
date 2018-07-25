@@ -21,10 +21,8 @@ AWARDS & HONORS
 ---
 
 
-| ------ | ------ | ------ |
-| 短文本 | 中等文本 | 稍微长一点的文本 |
-| 稍微长一点的文本 | 短文本 | 中等文本 |
 
+| |  |
 | --------| ------ |
 | 2017 | First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) |
 | 2016 | First-Class Academic Scholarship from [UESTC](http://en.uestc.edu.cn/)|
