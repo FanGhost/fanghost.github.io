@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Information and Computing Science, Sichuan Agricultural University, 2016
-* M.S. in Financial Management, Sichuan Agricultural University, 2016
+* B.M. in Financial Management, Sichuan Agricultural University, 2016
 * M.S. in Computer Science, University of Electronic Science and Technology of China, 2019 (expected)
 
 Work experience
