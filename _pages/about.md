@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ge Fan <font face="微软雅黑">樊哿</font>"
+title: "Ge Fan 樊哿"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
