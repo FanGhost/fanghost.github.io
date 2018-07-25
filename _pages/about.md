@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ---
-The second year master's student, advised by <font color=#00ffff >Wei Zeng</font> at  <font color=#00ffff >Center for Artificial Intelligence and Smart Health</font>, Department of Computer Science and Engineering, University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)).
+The second year master's student, advised by [Wei Zeng] at  [Center for Artificial Intelligence and Smart Health], Department of Computer Science and Engineering, University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)).
 Prior to that, I obtained my B.Sc. degree in Information and Computing Science and B.B.M. degree in Financial Management from Sichuan Agricultural University, China.
 
 Research Interests:
