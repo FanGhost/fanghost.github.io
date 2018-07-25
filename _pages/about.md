@@ -19,7 +19,13 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 AWARDS & HONORS
 ---
-| --------         | ------ |
+
+| 一个普通标题 | 一个普通标题 | 一个普通标题 |
+| ------ | ------ | ------ |
+| 短文本 | 中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本 | 中等文本 |
+
+| --------| ------ |
 | 2017 | First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) |
 | 2016 | First-Class Academic Scholarship from [UESTC](http://en.uestc.edu.cn/)|
 | 2016 | Excellent Program Award from [SICAU](http://www.sicau.edu.cn/)|
