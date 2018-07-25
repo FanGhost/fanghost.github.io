@@ -17,15 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016.06-2017.08: Algorithm Engineer
+  * Magic Data Cube Inc.
+  * Duties included: Feature Engineering, Algorithm Tuning, Modeling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Product Manager (Intern)
+  * WiSERV
+  * Duties included: Design product prototype
   
 Skills
 ======
@@ -56,4 +54,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
