@@ -21,8 +21,8 @@ AWARDS & HONORS
 ---
 
 | |  |
-| --------| ------ |
-| 2017 | First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) |
+ -------- ------ 
+ 2017  First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) 
 | 2016 | First-Class Academic Scholarship from [UESTC](http://en.uestc.edu.cn/)|
 | 2016 | Excellent Program Award from [SICAU](http://www.sicau.edu.cn/)|
 | 2016 | Special Contest Award from [SICAU](http://www.sicau.edu.cn/)|
