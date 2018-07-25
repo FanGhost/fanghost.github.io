@@ -10,6 +10,10 @@ redirect_from:
 
 Bio
 ---
-I'm a Msc student in UESTC, Chengdu, China. my research interesting include Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
+The second year master's student, advised by Wei Zeng at Center for Artificial Intelligence and Smart Health,
 
+University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/))
 
+Research Interests:
+---
+Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
