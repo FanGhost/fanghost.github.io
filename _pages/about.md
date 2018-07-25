@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ---
-The second year master's student, advised by Wei Zeng at Center for Artificial Intelligence and Smart Health,
+The second year master's student, advised by <font color=#00ffff >Wei Zeng</font> at  <font color=#00ffff >Center for Artificial Intelligence and Smart Health</font>,
 
 University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/))
 
