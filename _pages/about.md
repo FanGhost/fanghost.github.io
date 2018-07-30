@@ -27,4 +27,4 @@ AWARDS & HONORS
 | 2016 | Excellent Program Award from [SICAU](http://www.sicau.edu.cn/)|
 | 2016 | Special Contest Award from [SICAU](http://www.sicau.edu.cn/)|
 | 2015 | Honorable Mentions for The Interdisciplinary Contest in Modeling ([ICM](http://www.comap.com/undergraduate/contests/icm/)) |
-| 2015 | Secend-class Award from China Undergraduate Mathematical Contest in Modeling. ([CUMCM](http://www.mcm.edu.cn/)) |
+| 2015 | Secend-class Award from China Undergraduate Mathematical Contest in Modeling Sichuan Area. ([CUMCM](http://www.mcm.edu.cn/)) |
