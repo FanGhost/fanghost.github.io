@@ -28,12 +28,14 @@ Work experience
   
 Skills
 ======
-* Matlab 
 * Python
   * Tensotflow
   * Pytorch
   * Pandas
+  * numpy
+* Matlab
 * SQL
+* Spark
 
 Publications
 ======
