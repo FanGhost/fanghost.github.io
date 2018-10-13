@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* 2018.08-Now: Research Intern
+  * NetEase Games - [Fuxi Lab](https://fuxi.163.com/en/).
+  * Duties included: Network Representation Learning
+  
 * 2016.06-2017.08: Algorithm Engineer
   * Magic Data Cube Inc.
   * Duties included: Feature Engineering, Algorithm Tuning, Modeling
