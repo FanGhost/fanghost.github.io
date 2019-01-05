@@ -18,11 +18,14 @@ Education
 
 Work experience
 ======
-* 2018.08-Now: Research Intern
+* 2018.08-2019.01: Research Intern
   * NetEase Games - [Fuxi Lab](https://fuxi.163.com/en/).
-  * Duties included: Network Representation Learning
+  * Duties included: 
+    * develop a python based Network Representation Learning (NRL) toolkit.
+    * study the application of NRL in the game network, including the static and dynamic network. 
   
-* 2016.06-2017.08: Algorithm Engineer
+  
+* 2016.06-2017.08: Algorithm Engineer (PT)
   * Magic Data Cube Inc.
   * Duties included: Feature Engineering, Algorithm Tuning, Modeling
 
