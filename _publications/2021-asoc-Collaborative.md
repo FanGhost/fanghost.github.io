@@ -6,7 +6,7 @@ excerpt: 'Over the last few years, the deep neural network is utilized to solve 
 date: 2021-06-01
 venue: 'Journal 1'
 paperurl: '../files/2021Collaborative.pdf'
-# citation: 'Ge Fan, et al. Collaborative filtering via heterogeneous neuralnetworks." Applied Soft Computing: 1-15.'
+citation: 'Wei Zeng, Ge Fan, et al. Collaborative filtering via heterogeneous neuralnetworks." Applied Soft Computing: 1-15.'
 
 ---
 In order to model user-item interactions, we design a hybrid neural network where the MLP is used to build the global network and the residual network is applied to form the local neural blocks. Two top-n accuracy metrics are selected to measure the performance of algorithms since the accuracy of top-n item recommendation are the main concern for users in the real world applications.
