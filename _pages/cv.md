@@ -11,17 +11,19 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of Electronic Science and Technology of China, 2019 (expected)
+* M.S. in Computer Science, University of Electronic Science and Technology of China, 2019 
 * B.S. in Information and Computing Science, Sichuan Agricultural University, 2016
 * B.M. in Financial Management, Sichuan Agricultural University, 2016
 
 
 Work experience
 ======
-* 2019.03-Now: Assistant Researcher
-  * Tencent - Platform and Content Group
+* 2019.03-Now:  Researcher
+  * Tencent - 
   * Duties included: 
-    * Video recommendation in QQ Wach.
+    * Data Mining in Lgame
+    * User Representation Learning with billion-scale data in Tencent
+    * Recommendation in Tencent Kandian and QQ Browser
     
 * 2018.08-2019.01: Research Intern
   * NetEase Games - [Fuxi Lab](https://fuxi.163.com/en/).
@@ -41,10 +43,12 @@ Skills
 ======
 * Python
   * Tensotflow
-  * Pytorch
   * Pandas
   * numpy
+  * pySpark
+  * pyFlink
 * Matlab
+* Go
 * SQL
 * Spark
 

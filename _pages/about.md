@@ -10,10 +10,9 @@ redirect_from:
 
 Biography
 ---
-The thrid year master's student, advised by [Wei Zeng](http://smilelab.uestc.edu.cn/en/members/zengwei/) at Center for Artificial Intelligence and Smart Health (once called Statistical Machine Intelligence & LEarning, [SMILE](http://smilelab.uestc.edu.cn/en/)), Department of Computer Science and Engineering, University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)).
-Prior to that, I obtained my B.Sc. degree in Information and Computing Science and B.B.M. degree in Financial Management from Sichuan Agricultural University ([SICAU](http://english.sicau.edu.cn/)), China.
+He is currently an applied machine learning researcher at Tencent. Before that, he worked as a research intern at Fuxi AI Lab.He received his M.Sc. degree in Computer Science at University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)), and received his B.Sc. degree in Information and Computing Science and B.B.M. degree in Financial Management at Sichuan Agricultural University ([SICAU](http://english.sicau.edu.cn/)), China.
 
-There is my Chinese [resume](../files/resume_zh_CN.pdf).
+There is his Chinese [resume](../files/resume_zh_CN.pdf).
 
 Research Interests:
 ---
