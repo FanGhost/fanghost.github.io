@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ---
-He is currently an applied machine learning researcher at Tencent. Before that, he worked as a research intern at Fuxi AI Lab. He received his M.Sc. degree in Computer Science at University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)), and received his B.Sc. degree in Information and Computing Science and B.B.M. degree in Financial Management at Sichuan Agricultural University ([SICAU](http://english.sicau.edu.cn/)).
+He is currently an applied machine learning researcher at Tencent. Before that, he worked as a research intern at [Fuxi AI Lab](https://fuxi.163.com/en/). He received his M.Sc. degree in Computer Science at University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)), and received his B.Sc. degree in Information and Computing Science and B.B.M. degree in Financial Management at Sichuan Agricultural University ([SICAU](http://english.sicau.edu.cn/)).
 
 There is his Chinese [resume](../files/resume_zh_CN.pdf).
 
