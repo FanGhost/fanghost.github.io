@@ -10,4 +10,5 @@ citation: 'Ge Fan, et al. "Predicting ratings in multi-criteria recommender syst
 ---
 
 In this paper, we propose an end-to-end collective factor model (CFM) for the multi-criteria recommender system. Our methods integrate loss functions of overall ratings and multi-criteria ratings in a linear manner, such that both overall ratings and multi-criteria ratings are exploited to train the collective factor model. Our model does not need to estimate a user's multi-criteria ratings as a sub-process, which makes the system more robust than two-stages based methods. Experiment results on 3 benchmark datasets show that our methods outperform 8 different baselines, by achieving up to 10.52% and 13.14% lower RMSE and MAE than the state-of-the-art approach CIC.
-[Download paper here](../files/2018Preference.pdf)
+
+[Download paper here](../files/2021Predicting.pdf)
