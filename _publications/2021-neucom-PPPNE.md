@@ -11,4 +11,4 @@ citation: 'Fan, Ge, et al. "PPPNE: Personalized Proximity Preserved Network Embe
 ---
 Recommended citation: 'Fan, Ge, et al. "PPPNE: Personalized Proximity Preserved Network Embedding."  Neurocomputing, 2021.'
 
-[Download paper here](../files/2015Discriminant.pdf)
+[Download paper here](../files/2021PPPNE.pdf)
