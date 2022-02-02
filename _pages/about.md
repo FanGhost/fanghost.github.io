@@ -18,6 +18,17 @@ Research Interests:
 ---
 Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
+Selected Publications
+---
+Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation.
+IEEE Transactions on Network Science and Engineering (2022). [pdf](../files/2022Meta-path.pdf)
+
+**Ge Fan**, Biao Geng, Jianrong Tao, Kai Wang, Changjie Fan, and Wei Zeng. "PPPNE: Personalized proximity preserved network embedding." Neurocomputing 472 (2022): 103-112. [pdf](../files/2021PPPNE.pdf)
+
+Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. "Collaborative filtering via heterogeneous neural networks." Applied Soft Computing (2021): 107516.  [pdf](../files/2021Collaborative.pdf)
+
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. "Predicting ratings in multi-criteria recommender systems via a collective factor model." Demal @ The Web Conference (2021). [pdf](../files/021Predicting.pdf)
+
 AWARDS & HONORS
 ---
 
