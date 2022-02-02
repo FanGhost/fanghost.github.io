@@ -27,7 +27,7 @@ IEEE Transactions on Network Science and Engineering (2022). [pdf](../files/2022
 
 Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. "Collaborative filtering via heterogeneous neural networks." Applied Soft Computing (2021): 107516.  [pdf](../files/2021Collaborative.pdf)
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. "Predicting ratings in multi-criteria recommender systems via a collective factor model." Demal @ The Web Conference (2021). [pdf](../files/021Predicting.pdf)
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. "Predicting ratings in multi-criteria recommender systems via a collective factor model." Demal @ The Web Conference (2021). [pdf](../files/2021Predicting.pdf)
 
 AWARDS & HONORS
 ---
