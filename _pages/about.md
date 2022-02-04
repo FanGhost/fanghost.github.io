@@ -20,7 +20,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
-Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation.
+Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu. Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation.
 IEEE Transactions on Network Science and Engineering (2022). [pdf](../files/2022Meta-path.pdf)
 
 **Ge Fan**, Biao Geng, Jianrong Tao, Kai Wang, Changjie Fan, and Wei Zeng. "PPPNE: Personalized proximity preserved network embedding." Neurocomputing 472 (2022): 103-112. [pdf](../files/2021PPPNE.pdf)
