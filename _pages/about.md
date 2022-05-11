@@ -21,16 +21,16 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 Selected Publications
 ---
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong. [Field-aware Variational Autoencoders for Billion-scale User Representation Learning](../files/2022FVAE.pdf). International Conference on Data Engineering (2022).
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong. [Field-aware Variational Autoencoders for Billion-scale User Representation Learning](http://fange.pro/files/2022FVAE.pdf). International Conference on Data Engineering (2022).
 
-Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu. [Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation](../files/2022Meta-path.pdf).
+Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu. [Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation](http://fange.pro/files/2022Meta-path.pdf).
 IEEE Transactions on Network Science and Engineering (2022).
 
-**Ge Fan**, Biao Geng, Jianrong Tao, Kai Wang, Changjie Fan, and Wei Zeng. [PPPNE: Personalized proximity preserved network embedding](../files/2021PPPNE.pdf). Neurocomputing 472 (2022): 103-112.
+**Ge Fan**, Biao Geng, Jianrong Tao, Kai Wang, Changjie Fan, and Wei Zeng. [PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2021PPPNE.pdf). Neurocomputing 472 (2022): 103-112.
 
-Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. [Collaborative filtering via heterogeneous neural networks](../files/2021Collaborative.pdf). Applied Soft Computing (2021): 107516.  [pdf]
+Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf). Applied Soft Computing (2021): 107516.  [pdf]
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. [Predicting ratings in multi-criteria recommender systems via a collective factor model](../files/2021Predicting.pdf). Demal @ The Web Conference (2021)
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. [Predicting ratings in multi-criteria recommender systems via a collective factor model](http://fange.pro/files/2021Predicting.pdf). Demal @ The Web Conference (2021)
 
 AWARDS & HONORS
 ---
