@@ -20,9 +20,9 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
-Chaoyun Zhang, Kai Wang, Hao Chen, **Ge Fan**, Yingjie Li, Lifang Wu, Bingchao Zheng. [QuickSkill: Novice Skill Estimation in Online Multiplayer Games](). Conference on Information and Knowledge Management (CIKM 2022).
+Chaoyun Zhang, Kai Wang, Hao Chen, **Ge Fan**, Yingjie Li, Lifang Wu, Bingchao Zheng. [QuickSkill: Novice Skill Estimation in Online Multiplayer Games](). ACM International Conference on Information and Knowledge Management (CIKM 2022).
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong. [Field-aware Variational Autoencoders for Billion-scale User Representation Learning](http://fange.pro/files/2022FVAE.pdf). International Conference on Data Engineering (ICDE 2022).
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong. [Field-aware Variational Autoencoders for Billion-scale User Representation Learning](http://fange.pro/files/2022FVAE.pdf). IEEE International Conference on Data Engineering (ICDE 2022).
 
 Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu. [Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation](http://fange.pro/files/2022Meta-path.pdf).
 IEEE Transactions on Network Science and Engineering (2022).
