@@ -20,7 +20,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang. [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation()]. IEEE/ACM International Conference on Automated Software Engineering (ASE2022).
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang. [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](). IEEE/ACM International Conference on Automated Software Engineering (ASE2022).
 
 Chaoyun Zhang, Kai Wang, Hao Chen, **Ge Fan**, Yingjie Li, Lifang Wu, Bingchao Zheng. [QuickSkill: Novice Skill Estimation in Online Multiplayer Games](). ACM International Conference on Information and Knowledge Management (CIKM 2022).
 
