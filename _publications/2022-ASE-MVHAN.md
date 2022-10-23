@@ -13,8 +13,8 @@ citation: 'Fan, Ge, et al. "MV-HAN: A Hybrid Attentive Networks based Multi-View
 ---
 Recommended citation: 'Ge Fan, Chaoyun Zhang, Kai Wang, and Junyang Chen. 2022. MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Largescale Contents Recommendation. In 37th IEEE/ACM International Conference on Automated Software Engineering (ASE ’22), October 10–14, 2022, Rochester, MI, USA. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3551349.3559496'
 
-'''
-@INPROCEEDINGS{9835571,
+```
+@INPROCEEDINGS{fan2022mvhan,
   author={Fan, Ge and Zhang, Chaoyun and Wang, Kai and Chen, Junyang},
   booktitle={37th IEEE/ACM International Conference on Automated Software Engineering (ASE ’22)}, 
   title={Field-aware Variational Autoencoders for Billion-scale User Representation Learning}, 
@@ -23,6 +23,6 @@ Recommended citation: 'Ge Fan, Chaoyun Zhang, Kai Wang, and Junyang Chen. 2022. 
   number={},
   pages={},
   doi={10.1145/3551349.3559496}}
-'''
+```
 
 [Download paper here](http://fange.pro/files/2022MVHAN.pdf)

@@ -11,7 +11,7 @@ citation: 'Fan, Ge, et al. "Field-aware Variational Autoencoders for Billion-sca
 ---
 Recommended citation: 'Fan, Ge, et al. "Field-aware Variational Autoencoders for Billion-scale User Representation Learning."  2022 IEEE 38th International Conference on Data Engineering (ICDE), 2022.'
 
-'''
+```
 @INPROCEEDINGS{9835571,
   author={Fan, Ge and Zhang, Chaoyun and Chen, Junyang and Li, Baopu and Xu, Zenglin and Li, Yingjie and Peng, Luyu and Gong, Zhiguo},
   booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)}, 
@@ -21,6 +21,6 @@ Recommended citation: 'Fan, Ge, et al. "Field-aware Variational Autoencoders for
   number={},
   pages={3413-3425},
   doi={10.1109/ICDE53745.2022.00321}}
-'''
+```
 
 [Download paper here](http://fange.pro/files/2022FVAE.pdf)
