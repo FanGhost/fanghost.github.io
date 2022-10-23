@@ -19,7 +19,7 @@ Recommended citation: 'Ge Fan, Chaoyun Zhang, Kai Wang, and Junyang Chen. 2022. 
 @INPROCEEDINGS{fan2022mvhan,
   author={Fan, Ge and Zhang, Chaoyun and Wang, Kai and Chen, Junyang},
   booktitle={37th IEEE/ACM International Conference on Automated Software Engineering (ASE ’22)}, 
-  title={Field-aware Variational Autoencoders for Billion-scale User Representation Learning}, 
+  title={MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Largescale Contents Recommendation}, 
   year={2022},
   volume={},
   number={},
