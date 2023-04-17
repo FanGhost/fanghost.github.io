@@ -20,7 +20,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
-Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang . [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](). International Conference on Database Systems for Advanced Applications (DASFAA 2023).
+Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang . [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_36). International Conference on Database Systems for Advanced Applications (DASFAA 2023).
 
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang. [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](http://fange.pro/files/2022MVHAN.pdf). IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).
 
