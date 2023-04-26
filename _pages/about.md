@@ -20,9 +20,9 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
- **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung. [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](). IEEE Transactions on Network Science and Engineering (2023).
+ **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung. [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf). IEEE Transactions on Network Science and Engineering (2023).
 
-Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang . [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](https://www.researchgate.net/publication/370013191_A_Topic-Aware_Graph-Based_Neural_Network_for_User_Interest_Summarization_and_Item_Recommendation_in_Social_Media). International Conference on Database Systems for Advanced Applications (DASFAA 2023).
+Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang . [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](http://fange.pro/files/2023Topic.pdf). International Conference on Database Systems for Advanced Applications (DASFAA 2023).
 
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang. [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](http://fange.pro/files/2022MVHAN.pdf). IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).
 
