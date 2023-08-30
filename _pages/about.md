@@ -20,6 +20,13 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
+Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao and Dongmei Zhang. [A Neural Inference of User Social Interest for Item Recommendation]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
+
+JYuyan Chen, Qiang Fu,**Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao and Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
+
+Junyang Chen, Ziyi Chen, Mengzhu Wang, **Ge Fan**, Guo Zhong, Ou Liu, Wenfeng Du, Zhenghua Xu & Zhiguo Gong. [A Neural Inference of User Social Interest for Item Recommendation](http://fange.pro/files/2023Neural.pdf). Data Science and Engineering  (2023).
+
+
  **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung. [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf). IEEE Transactions on Network Science and Engineering (2023).
 
 Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang . [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](http://fange.pro/files/2023Topic.pdf). International Conference on Database Systems for Advanced Applications (DASFAA 2023).
