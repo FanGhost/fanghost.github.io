@@ -20,6 +20,19 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
+ **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung. [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf). IEEE Transactions on Network Science and Engineering (2023).
+ 
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang. [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](http://fange.pro/files/2022MVHAN.pdf). IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).
+
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong. [Field-aware Variational Autoencoders for Billion-scale User Representation Learning](http://fange.pro/files/2022FVAE.pdf). IEEE International Conference on Data Engineering (ICDE 2022).
+
+**Ge Fan**, Biao Geng, Jianrong Tao, Kai Wang, Changjie Fan, and Wei Zeng. [PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2021PPPNE.pdf). Neurocomputing 472 (2022): 103-112.
+
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. [Predicting ratings in multi-criteria recommender systems via a collective factor model](http://fange.pro/files/2021Predicting.pdf). Demal @ The Web Conference (2021)
+
+Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf). Applied Soft Computing (2021): 107516.  [pdf]
+
+
 Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [A Neural Inference of User Social Interest for Item Recommendation]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
 
 JYuyan Chen, Qiang Fu,**Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
@@ -27,24 +40,18 @@ JYuyan Chen, Qiang Fu,**Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yan
 Junyang Chen, Ziyi Chen, Mengzhu Wang, **Ge Fan**, Guo Zhong, Ou Liu, Wenfeng Du, Zhenghua Xu, Zhiguo Gong. [A Neural Inference of User Social Interest for Item Recommendation](http://fange.pro/files/2023Neural.pdf). Data Science and Engineering  (2023).
 
 
- **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung. [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf). IEEE Transactions on Network Science and Engineering (2023).
 
 Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang . [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](http://fange.pro/files/2023Topic.pdf). International Conference on Database Systems for Advanced Applications (DASFAA 2023).
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang. [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](http://fange.pro/files/2022MVHAN.pdf). IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).
 
 Chaoyun Zhang, Kai Wang, Hao Chen, **Ge Fan**, Yingjie Li, Lifang Wu, Bingchao Zheng. [QuickSkill: Novice Skill Estimation in Online Multiplayer Games](http://fange.pro/files/2022QuickSkill.pdf). ACM International Conference on Information and Knowledge Management (CIKM 2022).
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong. [Field-aware Variational Autoencoders for Billion-scale User Representation Learning](http://fange.pro/files/2022FVAE.pdf). IEEE International Conference on Data Engineering (ICDE 2022).
 
 Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu. [Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation](http://fange.pro/files/2022Meta-path.pdf).
 IEEE Transactions on Network Science and Engineering (2022).
 
-**Ge Fan**, Biao Geng, Jianrong Tao, Kai Wang, Changjie Fan, and Wei Zeng. [PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2021PPPNE.pdf). Neurocomputing 472 (2022): 103-112.
 
-Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf). Applied Soft Computing (2021): 107516.  [pdf]
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. [Predicting ratings in multi-criteria recommender systems via a collective factor model](http://fange.pro/files/2021Predicting.pdf). Demal @ The Web Conference (2021)
 
 AWARDS & HONORS
 ---
