@@ -35,7 +35,7 @@ Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Ji
 
 Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [A Neural Inference of User Social Interest for Item Recommendation]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
 
-JYuyan Chen, Qiang Fu,**Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
+JYuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
 
 Junyang Chen, Ziyi Chen, Mengzhu Wang, **Ge Fan**, Guo Zhong, Ou Liu, Wenfeng Du, Zhenghua Xu, Zhiguo Gong. [A Neural Inference of User Social Interest for Item Recommendation](http://fange.pro/files/2023Neural.pdf). Data Science and Engineering  (2023).
 
