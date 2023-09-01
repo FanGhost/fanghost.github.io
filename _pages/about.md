@@ -30,7 +30,7 @@ Selected Publications
 
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu. [Predicting ratings in multi-criteria recommender systems via a collective factor model](http://fange.pro/files/2021Predicting.pdf). Demal @ The Web Conference (2021)
 
-Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf). Applied Soft Computing (2021): 107516.  [pdf]
+Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf). Applied Soft Computing (2021).
 
 JYuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models]().  ACM International Conference on Information and Knowledge Management (CIKM 2023).
 
