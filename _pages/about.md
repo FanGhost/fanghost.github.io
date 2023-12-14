@@ -32,7 +32,7 @@ Selected Publications
 
 Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu. [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf). Applied Soft Computing (2021).
 
-Yuyan Chen, Zhihao Wen, **Ge Fan**,, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao. [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization]().  Findings of the Association for Computational Linguistics: EMNLP 2023 (findings of EMNLP 2023).
+Yuyan Chen, Zhihao Wen, **Ge Fan**,, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao. [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization](http://fange.pro/files/2023MAPO.pdf).  Findings of the Association for Computational Linguistics: EMNLP 2023 (findings of EMNLP 2023).
 
 Yuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models](http://fange.pro/files/2023_Hadamard_Adapter.pdf).  ACM International Conference on Information and Knowledge Management (CIKM 2023).
 
