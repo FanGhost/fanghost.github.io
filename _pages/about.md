@@ -45,6 +45,67 @@ IEEE Transactions on Network Science and Engineering
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](http://fange.pro/files/2022MVHAN.pdf)
+
+IEEE/ACM International Conference on Automated Software Engineering
+
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Field-aware Variational Autoencoders for Billion-scale User Representation Learning](http://fange.pro/files/2022FVAE.pdf)
+
+IEEE International Conference on Data Engineering
+
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2021PPPNE.pdf)
+
+Neurocomputing
+
+**Ge Fan**, Biao Geng, Jianrong Tao, Kai Wang, Changjie Fan, and Wei Zeng. 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW workshop 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Predicting ratings in multi-criteria recommender systems via a collective factor model](http://fange.pro/files/2021Predicting.pdf)
+
+Data-Efficient Machine Learning (DeMaL) @ The Web Conference
+
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf)
+
+Applied Soft Computing
+
+Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Jiacheng Li, and Weibo Liu.
+
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,19 +118,25 @@ IEEE Transactions on Network Science and Engineering
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+| |  |
+|-------- | ------ |   
+| 2017 | First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) | 
+| 2016 | First-Class Academic Scholarship from [UESTC](http://en.uestc.edu.cn/)|
+| 2016 | Excellent Program Award from [SICAU](http://english.sicau.edu.cn/)|
+| 2016 | Special Contest Award from [SICAU](http://english.sicau.edu.cn/)|
+| 2015 | Honorable Mentions for The Interdisciplinary Contest in Modeling ([ICM](http://www.comap.com/undergraduate/contests/icm/)) |
+| 2015 | Secend-class Award from China Undergraduate Mathematical Contest in Modeling Sichuan Area. ([CUMCM](http://www.mcm.edu.cn/)) |
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
