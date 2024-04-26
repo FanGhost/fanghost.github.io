@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About 
+# About Me
 
 He is currently an applied machine learning researcher at Tencent. Before that, he worked as a research intern at [Fuxi AI Lab](https://fuxi.163.com/en/). He received his M.Sc. degree in Computer Science at University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)), and received his B.Sc. degree in Information and Computing Science and B.B.M. degree in Financial Management at Sichuan Agricultural University ([SICAU](http://english.sicau.edu.cn/)).
 
@@ -137,25 +137,37 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- `findings of EMNLP 2023` [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization](http://fange.pro/files/2023MAPO.pdf). Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao.
+- `EMNLP 2023 findings` [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization](http://fange.pro/files/2023MAPO.pdf). <br> 
+Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao.
 
-- `CIKM 2023` Yuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models](http://fange.pro/files/2023_Hadamard_Adapter.pdf).  
+- `CIKM 2023` [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models](http://fange.pro/files/2023_Hadamard_Adapter.pdf). <br>
+Yuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. 
 <!-- ACM International Conference on Information and Knowledge Management (). -->
 
-- `CIKM 2023`  [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](http://fange.pro/files/2023_Hallucination_Detection.pdf). Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao, Dongmei Zhang.
+- `CIKM 2023`  [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](http://fange.pro/files/2023_Hallucination_Detection.pdf). <br> 
+Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao, Dongmei Zhang.
 <!-- ACM International Conference on Information and Knowledge Management (). -->
 
-- `DSE` [A Neural Inference of User Social Interest for Item Recommendation](http://fange.pro/files/2023Neural.pdf).Junyang Chen, Ziyi Chen, Mengzhu Wang, **Ge Fan**, Guo Zhong, Ou Liu, Wenfeng Du, Zhenghua Xu, Zhiguo Gong.
+- `DSE` [A Neural Inference of User Social Interest for Item Recommendation](http://fange.pro/files/2023Neural.pdf). <br> 
+Junyang Chen, Ziyi Chen, Mengzhu Wang, **Ge Fan**, Guo Zhong, Ou Liu, Wenfeng Du, Zhenghua Xu, Zhiguo Gong.
  <!-- Data Science and Engineering  (2023). -->
 
-- `DASFAA 2023`  [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](http://fange.pro/files/2023Topic.pdf). Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang .
+- `DASFAA 2023`  [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](http://fange.pro/files/2023Topic.pdf). <br> 
+Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang .
 <!-- International Conference on Database Systems for Advanced Applications (DASFAA 2023). -->
 
-- `CIKM 2022`  [QuickSkill: Novice Skill Estimation in Online Multiplayer Games](http://fange.pro/files/2022QuickSkill.pdf). Chaoyun Zhang, Kai Wang, Hao Chen, **Ge Fan**, Yingjie Li, Lifang Wu, Bingchao Zheng.
+- `CIKM 2022`  [QuickSkill: Novice Skill Estimation in Online Multiplayer Games](http://fange.pro/files/2022QuickSkill.pdf). <br> 
+Chaoyun Zhang, Kai Wang, Hao Chen, **Ge Fan**, Yingjie Li, Lifang Wu, Bingchao Zheng.
 <!-- ACM International Conference on Information and Knowledge Management (CIKM 2022). -->
 
-- `IEEE TNSE`  [Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation](http://fange.pro/files/2022Meta-path.pdf). Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu.
+- `IEEE TNSE`  [Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation](http://fange.pro/files/2022Meta-path.pdf). <br> 
+Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu.
 <!-- IEEE Transactions on Network Science and Engineering (2022). -->
+
+- `KAIS` [Preference modeling by exploiting latent components of ratings](http://fange.pro/files/2018Preference.pdf). <br> 
+Junhua Chen, Wei Zeng, Junming Shao, **Ge Fan**.
+<!-- IEEE Transactions on Network Science and Engineering (2022). -->
+
 
 # 🎖 Honors and Awards
 
@@ -182,7 +194,9 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Work Experience
+- *2019.07 - 2024.05*, Tencent (Shenzhen, China), Senior Researcher
+- *2019.03 - 2020.04*, Tencent (Shenzhen, China), Research intern
+- *2018.07 - 2018.12*, Netease Games (Hangzhou, China), Research intern
