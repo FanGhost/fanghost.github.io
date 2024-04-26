@@ -108,7 +108,7 @@ Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">findings of EMNLP 2023</div><img src='images/pdf.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">findings of EMNLP 2023</div><img src='images/pdf.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization](http://fange.pro/files/2023MAPO.pdf)
@@ -118,7 +118,7 @@ findings of EMNLP 2023
 Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao.
 
 </div>
-</div>
+</div> -->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
