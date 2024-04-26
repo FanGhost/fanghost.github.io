@@ -120,7 +120,25 @@ Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Ji
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+-  [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization](http://fange.pro/files/2023MAPO.pdf).  
+    - Findings of the Association for Computational Linguistics: EMNLP 2023 (findings of EMNLP 2023).
+    - Yuyan Chen, Zhihao Wen, **Ge Fan**,, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao.
+
+- Yuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models](http://fange.pro/files/2023_Hadamard_Adapter.pdf).  ACM International Conference on Information and Knowledge Management (CIKM 2023).
+
+- Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](http://fange.pro/files/2023_Hallucination_Detection.pdf).  ACM International Conference on Information and Knowledge Management (CIKM 2023).
+
+- Junyang Chen, Ziyi Chen, Mengzhu Wang, **Ge Fan**, Guo Zhong, Ou Liu, Wenfeng Du, Zhenghua Xu, Zhiguo Gong. [A Neural Inference of User Social Interest for Item Recommendation](http://fange.pro/files/2023Neural.pdf). Data Science and Engineering  (2023).
+
+- Junyang Chen, **Ge Fan**, Zhiguo Gong, Xueliang Li, Victor C.M. Leung, Mengzhu Wang, Ming Yang . [A Topic-aware Graph-based Neural Network for User Interest Summarization and Item Recommendation in Social Media](http://fange.pro/files/2023Topic.pdf). International Conference on Database Systems for Advanced Applications (DASFAA 2023).
+
+- Chaoyun Zhang, Kai Wang, Hao Chen, **Ge Fan**, Yingjie Li, Lifang Wu, Bingchao Zheng. [QuickSkill: Novice Skill Estimation in Online Multiplayer Games](http://fange.pro/files/2022QuickSkill.pdf). ACM International Conference on Information and Knowledge Management (CIKM 2022).
+
+- Junyang Chen, Zhiguo Gong,Yuanman li, Huanjian Zhang, Hongyong Yu, Junzhang Zhu, **Ge Fan**, Xiaoming Wu, Kaishun Wu. [Meta-path Based Neighbors for Behavioral Target Generalization in Sequential Recommendation](http://fange.pro/files/2022Meta-path.pdf).
+IEEE Transactions on Network Science and Engineering (2022).
+
 # 🎖 Honors and Awards
+
 | |  |
 |-------- | ------ |   
 | 2017 | First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) | 
