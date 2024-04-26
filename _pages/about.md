@@ -36,7 +36,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf)
+[Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf)
 
 IEEE Transactions on Network Science and Engineering 
 
