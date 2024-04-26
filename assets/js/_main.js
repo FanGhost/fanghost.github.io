@@ -3,7 +3,23 @@
    ========================================================================== */
 
 $(document).ready(function(){
+   // Sticky footer
+  var bumpIt = function() {
+      $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
+    },
+    didResize = false;
 
+  bumpIt();
+
+  $(window).resize(function() {
+    didResize = true;
+  });
+  setInterval(function() {
+    if (didResize) {
+      didResize = false;
+      bumpIt();
+    }
+  }, 250);
   // FitVids init
   $("#main").fitVids();
 
@@ -11,7 +27,7 @@ $(document).ready(function(){
   $(".sticky").Stickyfill();
 
   var stickySideBar = function(){
-    var show = $(".author__urls-wrapper button").length === 0 ? $(window).width() > 1024 : !$(".author__urls-wrapper button").is(":visible");
+    var show = $(".author__urls-wrapper button").length === 0 ? $(window).width() > 925 : !$(".author__urls-wrapper button").is(":visible");
     // console.log("has button: " + $(".author__urls-wrapper button").length === 0);
     // console.log("Window Width: " + windowWidth);
     // console.log("show: " + show);
