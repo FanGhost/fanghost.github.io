@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About 
+
 He is currently an applied machine learning researcher at Tencent. Before that, he worked as a research intern at [Fuxi AI Lab](https://fuxi.163.com/en/). He received his M.Sc. degree in Computer Science at University of Electronic Science and Technology of China ([UESTC](http://en.uestc.edu.cn/)), and received his B.Sc. degree in Information and Computing Science and B.B.M. degree in Financial Management at Sichuan Agricultural University ([SICAU](http://english.sicau.edu.cn/)).
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
@@ -143,12 +145,12 @@ Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Ji
 
 # 🎖 Honors and Awards
 
-*2017*, First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) . 
-*2016*, First-Class Academic Scholarship from [UESTC](http://en.uestc.edu.cn/). 
-*2016*, Excellent Program Award from [SICAU](http://english.sicau.edu.cn/). 
-*2016*, Special Contest Award from [SICAU](http://english.sicau.edu.cn/). 
-*2015*, Honorable Mentions for The Interdisciplinary Contest in Modeling ([ICM](http://www.comap.com/undergraduate/contests/icm/)). 
-*2015*, Secend-class Award from China Undergraduate Mathematical Contest in Modeling Sichuan Area. ([CUMCM](http://www.mcm.edu.cn/)). 
+- *2017*, First-Class Award from [China Postgraduate Mathematic Contest in Modeling](http://gmcm.seu.edu.cn) . 
+- *2016*, First-Class Academic Scholarship from [UESTC](http://en.uestc.edu.cn/). 
+- *2016*, Excellent Program Award from [SICAU](http://english.sicau.edu.cn/). 
+- *2016*, Special Contest Award from [SICAU](http://english.sicau.edu.cn/). 
+- *2015*, Honorable Mentions for The Interdisciplinary Contest in Modeling ([ICM](http://www.comap.com/undergraduate/contests/icm/)). 
+- *2015*, Secend-class Award from China Undergraduate Mathematical Contest in Modeling Sichuan Area. ([CUMCM](http://www.mcm.edu.cn/)). 
 
 
 <!-- | |  |
