@@ -20,6 +20,18 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Selected Publications
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf
+
+IEEE Transactions on Network Science and Engineering 
+
+**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung.
+
+</div>
+</div>
+
  **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung. [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf). IEEE Transactions on Network Science and Engineering (2023).
  
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang. [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](http://fange.pro/files/2022MVHAN.pdf). IEEE/ACM International Conference on Automated Software Engineering (ASE 2022).
