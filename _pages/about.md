@@ -43,7 +43,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 IEEE Transactions on Network Science and Engineering 
 
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung.
-
+- A short version has appeared in DeMaL @ The Web Conference 2021, [PDF](http://fange.pro/files/2021Predicting.pdf)
 <!-- -  -->
 </div>
 </div>
@@ -85,7 +85,7 @@ Neurocomputing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW workshop 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW workshop 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Predicting ratings in multi-criteria recommender systems via a collective factor model](http://fange.pro/files/2021Predicting.pdf)
@@ -95,7 +95,7 @@ Data-Efficient Machine Learning (DeMaL) @ The Web Conference
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, and Kaishun Wu.
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2021</div><img src='images/HybridNNMF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
