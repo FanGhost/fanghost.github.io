@@ -33,7 +33,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNSE 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf)
@@ -70,7 +70,7 @@ IEEE International Conference on Data Engineering
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2021PPPNE.pdf)
@@ -123,10 +123,10 @@ Wei Zeng\*, **Ge Fan\* (co-first authors)**, Shan Sun, Biao Geng, Weiyi Wang, Ji
 
 - `findings of EMNLP 2023` [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization](http://fange.pro/files/2023MAPO.pdf). Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao.
 
--`CIKM 2023` Yuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models](http://fange.pro/files/2023_Hadamard_Adapter.pdf).  
+- `CIKM 2023` Yuyan Chen, Qiang Fu, **Ge Fan**, Lun Du, Jian-Guang Lou, Shi Han, Zhixu Li, Yanghua Xiao, Dongmei Zhang. [Hadamard Adapter: An Extreme Parameter-Efficient Adapter Tuning Method for Pre-trained Language Models](http://fange.pro/files/2023_Hadamard_Adapter.pdf).  
 <!-- ACM International Conference on Information and Knowledge Management (). -->
 
--`CIKM 2023`  [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](http://fange.pro/files/2023_Hallucination_Detection.pdf). Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao, Dongmei Zhang.
+- `CIKM 2023`  [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](http://fange.pro/files/2023_Hallucination_Detection.pdf). Yuyan Chen, Qiang Fu, Yichen Yuan, Zhihao Wen, **Ge Fan**, Dayiheng Liu, Zhixu Li, Yanghua Xiao, Dongmei Zhang.
 <!-- ACM International Conference on Information and Knowledge Management (). -->
 
 - `DSE` [A Neural Inference of User Social Interest for Item Recommendation](http://fange.pro/files/2023Neural.pdf).Junyang Chen, Ziyi Chen, Mengzhu Wang, **Ge Fan**, Guo Zhong, Ou Liu, Wenfeng Du, Zhenghua Xu, Zhiguo Gong.
