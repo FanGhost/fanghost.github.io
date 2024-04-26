@@ -35,7 +35,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE</div><img src='images/CFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Rating Prediction in Multi-criteria Recommender Systems via a Collective Factor Model](http://fange.pro/files/2023CFM.pdf)
@@ -44,10 +44,11 @@ IEEE Transactions on Network Science and Engineering
 
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung.
 
+<!-- -  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASE 2022</div><img src='images/MVHAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MV-HAN: A Hybrid Attentive Networks based Multi-View Learning Model for Large-scale Contents Recommendation](http://fange.pro/files/2022MVHAN.pdf)
@@ -59,7 +60,7 @@ IEEE/ACM International Conference on Automated Software Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2022</div><img src='images/FVAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Field-aware Variational Autoencoders for Billion-scale User Representation Learning](http://fange.pro/files/2022FVAE.pdf)
@@ -72,7 +73,7 @@ IEEE International Conference on Data Engineering
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing </div><img src='images/PPPNE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2021PPPNE.pdf)
@@ -96,7 +97,7 @@ Data-Efficient Machine Learning (DeMaL) @ The Web Conference
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2021</div><img src='images/HybridNNMF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf)
