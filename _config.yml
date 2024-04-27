@@ -10,15 +10,15 @@ title                    : "Ge Fan"
 name                     : &name "Ge Fan"
 description              : &description "researcher at Tencent"
 repository               : "FanGhost/fanghost.github.io"
-url                      : http://fange.pro 
+url                      : "http://fange.pro"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-4SHZNSKXRJ  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "G-4SHZNSKXRJ"  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+bing_site_verification   :  "A1E286E2C3F360B584224D3B76422021"# get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -47,7 +47,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/my-orcid?orcid=0000-0001-5653-1626 # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5653-1626" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
