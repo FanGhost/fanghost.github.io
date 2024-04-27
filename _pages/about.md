@@ -57,6 +57,8 @@ IEEE/ACM International Conference on Automated Software Engineering
 
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, Kai Wang.
 
+- Applied in Tencent Recommender Systems.
+
 </div>
 </div>
 
@@ -68,6 +70,8 @@ IEEE/ACM International Conference on Automated Software Engineering
 IEEE International Conference on Data Engineering
 
 **Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Zenglin Xu, Yingjie Li, Luyu Peng, Zhiguo Gong.
+
+- Applied in Tencent Recommender Systems.
 
 </div>
 </div>
@@ -97,7 +101,7 @@ Data-Efficient Machine Learning (DeMaL) @ The Web Conference
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2021</div><img src='images/HybridNNMF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC</div><img src='images/HybridNNMF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Collaborative filtering via heterogeneous neural networks](http://fange.pro/files/2021Collaborative.pdf)
