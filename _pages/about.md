@@ -30,6 +30,9 @@ Research Interests:
 Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 We have a full paper accepted by CSCW 24.
+- *2024.06*: &nbsp;🎉🎉 We have a full paper accepted by Research. 
+
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
