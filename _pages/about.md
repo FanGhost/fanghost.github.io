@@ -44,7 +44,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 Proceedings of the ACM on Human-Computer Interaction
 
-**Ge Fan**, Chaoyun Zhang, Junyang Chen, Paul Li, Yingjie Li, Victor C. M. Leung.
+**Ge Fan**, Chaoyun Zhang, Kai Wang,  Yingjie Li, Junyang Chen, Zenglin Xu.
 - appeared in CSCW 24
 - Applied in a popular MOBA game
 
