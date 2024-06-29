@@ -37,7 +37,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW</div><img src='images/cupid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 24</div><img src='images/cupid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CUPID: Improving Battle Fairness and Position Satisfaction in Online MOBA Games with a Re-matchmaking System](http://fange.pro/files/2024CUPID.pdf)
