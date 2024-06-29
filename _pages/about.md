@@ -37,15 +37,15 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 24</div><img src='images/cupid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/cupid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CUPID: Improving Battle Fairness and Position Satisfaction in Online MOBA Games with a Re-matchmaking System](http://fange.pro/files/2024CUPID.pdf)
 
-Proceedings of the ACM on Human-Computer Interaction
+Proceedings of the ACM on Human-Computer Interaction / ACM Conference on Computer Supported Cooperative Work
 
 **Ge Fan**, Chaoyun Zhang, Kai Wang,  Yingjie Li, Junyang Chen, Zenglin Xu.
-- appeared in CSCW 24
+- Appeared in CSCW 24
 - Applied in a popular MOBA game
 
 <!-- -  -->
