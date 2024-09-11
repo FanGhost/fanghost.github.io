@@ -159,6 +159,12 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+- `Heliyon ` [Assessing the ChatGPT aptitude: a competent and effective Dermatology doctor](https://www.cell.com/heliyon/fulltext/S2405-8440(24)13251-3). <br> 
+Chengxiang Lian, Xin Yuan, Santosh Chokkakula, Guanqing Wang, Biao Song,  Zhe Wang, **Ge Fan**, Chengliang Yin.
+
+- `Research ` [Development and External Validation of an Artificial Intelligence-Based Method for Scalable Chest Radiograph Diagnosis: A Multi-Country Cross-Sectional Study](https://spj.science.org/doi/full/10.34133/research.0426). <br> 
+Zeye Liu, Jing Xu, Chengliang Yin, Guojing Han, Yue Che, **Ge Fan**, et al.
+
 - `EMNLP 2023 findings` [MAPO: Boosting Large Language Model Performance with Model-Adaptive Prompt Optimization](http://fange.pro/files/2023MAPO.pdf). <br> 
 Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li, Bang Liu, Yanghua Xiao.
 
