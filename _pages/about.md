@@ -158,6 +158,9 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+  
+- `VINCI 2024 ` [Digital Mustard Garden: Revitalizing Freehand-ink-painting Teaching through Artistic Participation](https://dl.acm.org/doi/abs/10.1145/3678698.3687184). <br> 
+Yuyang Jiang, Luwen Yu  Jun-ze Ma, Yulu Hu,   **Ge Fan**, Hao Li, Pan Hui.
 
 - `Heliyon ` [Assessing the ChatGPT aptitude: a competent and effective Dermatology doctor](https://www.cell.com/heliyon/fulltext/S2405-8440(24)13251-3). <br> 
 Chengxiang Lian, Xin Yuan, Santosh Chokkakula, Guanqing Wang, Biao Song,  Zhe Wang, **Ge Fan**, Chengliang Yin.
