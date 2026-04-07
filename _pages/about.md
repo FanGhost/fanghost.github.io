@@ -225,7 +225,7 @@ Junhua Chen, Wei Zeng, Junming Shao, **Ge Fan**.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *2024.05 - now*, Alibaba Group (Hangzhou, China), Senior Machine Learning Expert
+<!--- *2024.05 - now*, Alibaba Group (Hangzhou, China), Senior Machine Learning Expert -->
 - *2019.07 - 2024.05*, Tencent (Shenzhen, China), Senior Researcher
 - *2019.03 - 2019.04*, Tencent (Shenzhen, China), Research intern
 - *2018.07 - 2018.12*, Netease Games (Hangzhou, China), Research intern
