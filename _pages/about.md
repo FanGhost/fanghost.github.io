@@ -30,7 +30,8 @@ Research Interests:
 Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 We have a paper accepted by SIGIR 2026.
+- *2026.04*: &nbsp;🎉🎉 We have a paper accepted by SIGIR 2026.
+
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
