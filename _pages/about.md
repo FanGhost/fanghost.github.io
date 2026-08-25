@@ -47,8 +47,9 @@ SIGIR '26: Proceedings of the 49th International ACM SIGIR Conference on Researc
 **Ge Fan**, Nan Zhao, Kai Meng, Cong Luo, Yang Fu, Huiping Chu, Jialin Liu, Yuning Jiang, Bo Zheng
 - Applied in a Taobao Recommender Systems.
 </div>
+</div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/cupid.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/cupid.png' alt="sym" width="100%"></div></div> 
 <div class='paper-box-text' markdown="1">
 
 [CUPID: Improving Battle Fairness and Position Satisfaction in Online MOBA Games with a Re-matchmaking System](http://fange.pro/files/2024CUPID.pdf)
