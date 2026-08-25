@@ -30,12 +30,23 @@ Research Interests:
 Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 We have a paper accepted by CIKM 2026.
 - *2026.04*: &nbsp;🎉🎉 We have a paper accepted by SIGIR 2026.
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/cupid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation](https://dl.acm.org/doi/10.1145/3805712.3808411)
+
+SIGIR '26: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+**Ge Fan**, Nan Zhao, Kai Meng, Cong Luo, Yang Fu, Huiping Chu, Jialin Liu, Yuning Jiang, Bo Zheng
+- Applied in a Taobao Recommender Systems.
+   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/cupid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -156,7 +167,12 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-  
+- `CIKM 2026` [CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games](http://fange.pro/). <br> 
+Kai Wang, **#Ge Fan**, Chaoyun Zhang, Yuyang Jiang, Yuze Liu.
+
+- `CIKM 2026` [DeepOSSA: A Deep Learning Framework for Personalized Survival Prediction in Osteosarcoma Patients](http://fange.pro/). <br> 
+Zongdong Zhu, Xiaowei Sha, Chengliang Yin, **Ge Fan**, Wei Lu. 
+
 - `VINCI 2024 ` [Digital Mustard Garden: Revitalizing Freehand-ink-painting Teaching through Artistic Participation](https://dl.acm.org/doi/abs/10.1145/3678698.3687184). <br> 
 Yuyang Jiang, Luwen Yu, Jun-ze Ma, Yulu Hu,   **Ge Fan**, Hao Li, Pan Hui.
 
