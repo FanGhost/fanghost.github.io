@@ -37,12 +37,12 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/cupid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation](https://dl.acm.org/doi/10.1145/3805712.3808411)
 
-SIGIR '26: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
 
 **Ge Fan**, Nan Zhao, Kai Meng, Cong Luo, Yang Fu, Huiping Chu, Jialin Liu, Yuning Jiang, Bo Zheng
 - Applied in a Taobao Recommender Systems.
