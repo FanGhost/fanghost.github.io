@@ -170,7 +170,7 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 - `CIKM 2026` [CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games](http://fange.pro/). <br> 
 Kai Wang, **#Ge Fan**, Chaoyun Zhang, Yuyang Jiang, Yuze Liu.
 
-- `CIKM 2026` [DeepOSSA: A Deep Learning Framework for Personalized Survival Prediction in Osteosarcoma Patients](http://fange.pro/). <br> 
+- `Front. Cell Dev. Biol. ` [DeepOSSA: A Deep Learning Framework for Personalized Survival Prediction in Osteosarcoma Patients](http://fange.pro/). <br> 
 Zongdong Zhu, Xiaowei Sha, Chengliang Yin, **Ge Fan**, Wei Lu. 
 
 - `VINCI 2024 ` [Digital Mustard Garden: Revitalizing Freehand-ink-painting Teaching through Artistic Participation](https://dl.acm.org/doi/abs/10.1145/3678698.3687184). <br> 
