@@ -46,7 +46,7 @@ Proceedings of the 49th International ACM SIGIR Conference on Research and Devel
 
 **Ge Fan**, Nan Zhao, Kai Meng, Cong Luo, Yang Fu, Huiping Chu, Jialin Liu, Yuning Jiang, Bo Zheng
 - Applied in a Taobao Recommender Systems.
-- [Poster](http://fange.pro/files/uniboost-poster-A0.pdf).
+- [Poster](http://fange.pro/files/uniboost-poster-A0.pdf)
 </div>
 </div>
 
