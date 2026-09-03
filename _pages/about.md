@@ -110,7 +110,7 @@ IEEE International Conference on Data Engineering
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing </div><img src='images/PPPNE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2021PPPNE.pdf)
+[PPPNE: Personalized proximity preserved network embedding](http://fange.pro/files/2026PPPNE.pdf)
 
 Neurocomputing
 
@@ -173,7 +173,7 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 - `CIKM 2026` [CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games](http://fange.pro/). <br> 
 Kai Wang, **#Ge Fan**, Chaoyun Zhang, Yuyang Jiang, Yuze Liu.
 
-- `Front. Cell Dev. Biol. ` [DeepOSSA: A Deep Learning Framework for Personalized Survival Prediction in Osteosarcoma Patients](http://fange.pro/files/2021PPPNE.pdf). <br> 
+- `Front. Cell Dev. Biol. ` [DeepOSSA: A Deep Learning Framework for Personalized Survival Prediction in Osteosarcoma Patients](http://fange.pro/files/2026DeepOSSA.pdf). <br> 
 Zongdong Zhu, Xiaowei Sha, Chengliang Yin, **Ge Fan**, Wei Lu. 
 
 - `VINCI 2024 ` [Digital Mustard Garden: Revitalizing Freehand-ink-painting Teaching through Artistic Participation](https://dl.acm.org/doi/abs/10.1145/3678698.3687184). <br> 
