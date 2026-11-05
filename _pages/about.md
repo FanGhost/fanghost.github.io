@@ -200,6 +200,7 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 Zonghe Shao, Huabin Chen, Sitong Lu, Fangmei Zhu, Yingcai Ma,  **Ge Fan**, Jinguo Gao, Wei Shi, Yanfang Liu, Huiping Chu
 
 - `Tech Report` [DREAM Technical Report](https://arxiv.org/pdf/2608.09408). <br>
+As a co-author
 
 - `CIKM 2026` [CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games](http://fange.pro/files/2026CHAMP.pdf). <br> 
 Kai Wang, **#Ge Fan**, Chaoyun Zhang, Yuyang Jiang, Yuze Liu.
