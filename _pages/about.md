@@ -30,6 +30,7 @@ Research Interests:
 Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 We have 2 papers accepted by AAAI 2027.
 - *2026.08*: &nbsp;🎉🎉 We have a paper accepted by CIKM 2026.
 - *2026.04*: &nbsp;🎉🎉 We have a paper accepted by SIGIR 2026.
 
@@ -37,6 +38,31 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Waste to Discovery: Recycling High-Scored Unexposed Candidates in Taobao Feed Recommendation](https://arxiv.org/pdf/2611.05997)
+
+Proceedings of the AAAI Conference on Artificial Intelligence
+
+**Ge Fan**, Kai Meng, Huiping Chu, Yuning Jiang, Han Zhu, Bo Zheng
+- Applied in a Taobao Recommender Systems.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SkinAdvisor: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting]()
+
+Proceedings of the AAAI Conference on Artificial Intelligence
+
+**Ge Fan**, Kai Wang, Chaoyun Zhang, Yingjie Li, Yuze Liu, Junyang Chen
+- Applied in a Game studio.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -170,6 +196,11 @@ Yuyan Chen, Zhihao Wen, **Ge Fan**, Zhengyu Chen, Wei Wu, Dayiheng Liu, Zhixu Li
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- `Preprint` [UGR: Unified Generative Ranking for Heterogeneous E-commerce Recommendation](https://arxiv.org/pdf/2610.39426). <br> 
+Zonghe Shao, Huabin Chen, Sitong Lu, Fangmei Zhu, Yingcai Ma,  **Ge Fan**, Jinguo Gao, Wei Shi, Yanfang Liu, Huiping Chu
+
+- `Tech Report` [DREAM Technical Report](https://arxiv.org/pdf/2608.09408). <br>
+
 - `CIKM 2026` [CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games](http://fange.pro/files/2026CHAMP.pdf). <br> 
 Kai Wang, **#Ge Fan**, Chaoyun Zhang, Yuyang Jiang, Yuze Liu.
 
