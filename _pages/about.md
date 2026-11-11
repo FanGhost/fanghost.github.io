@@ -41,7 +41,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/URED.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Waste to Discovery: Recycling High-Scored Unexposed Candidates in Taobao Feed Recommendation](https://arxiv.org/pdf/2611.05997)
+[From Waste to Discovery: Recycling High-Scored Unexposed Candidates in Taobao Feed Recommendation](http://fange.pro/files/2027URED.pdf)
 
 Proceedings of the AAAI Conference on Artificial Intelligence
 
@@ -53,7 +53,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027</div><img src='images/skinAdvisor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SkinAdvisor: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting]()
+[SkinAdvisor: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting](http://fange.pro/files/2027SkinAdvisor.pdf)
 
 Proceedings of the AAAI Conference on Artificial Intelligence
 
