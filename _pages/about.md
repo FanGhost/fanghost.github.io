@@ -50,7 +50,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/skinAdvisor.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027</div><img src='images/skinAdvisor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SkinAdvisor: An AI-Driven Decision Framework for Skin Production Planning via Multi-Modal Transformer Sales Forecasting]()
@@ -63,7 +63,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2027</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation](https://dl.acm.org/doi/10.1145/3805712.3808411)
