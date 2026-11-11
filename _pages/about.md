@@ -38,7 +38,7 @@ Mechine Learning, Data Mining, Deep Learning and Recommender Systems.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/URED.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2027</div><img src='images/URED.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Waste to Discovery: Recycling High-Scored Unexposed Candidates in Taobao Feed Recommendation](http://fange.pro/files/2027URED.pdf)
@@ -63,7 +63,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2027</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/uniboost.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uniboost: Global Coordination with Value Alignment for Fair and Efficient Traffic Allocation](https://dl.acm.org/doi/10.1145/3805712.3808411)
